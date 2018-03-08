@@ -302,6 +302,7 @@
   /* Product Grid */
   .product-grid {
     width: 100%;
+    color: #F4F1BB;
   }
 
   .product-grid tr td {
@@ -357,3 +358,14 @@
 
   }
 
+  .primary {
+    color: #9BC1BC;
+  }
+
+  .secondary {
+    color: #F4F1BB;
+  }
+
+  .accent {
+    color:#E6EBE0;
+  }
